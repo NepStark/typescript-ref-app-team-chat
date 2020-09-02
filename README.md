@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/pubnub/typescript-ref-app-team-chat)](https://repl.it/github/pubnub/typescript-ref-app-team-chat)
 # PubNub Team Chat
 
 [![Build Status](https://travis-ci.com/pubnub/typescript-ref-app-team-chat.svg?branch=master)](https://travis-ci.com/pubnub/typescript-ref-app-team-chat)
